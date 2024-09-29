@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: 'Peter Krolczyk',
+    description: 'Connecting Software Developers with Their Next Opportunity',
+    url: 'https://www.interlinkjobs.com',
+    twitter: '@InterLinkJobs',
+    tags: ['STEM-Jobs','Job-Board','Career', 'Self-Development', 'Tech', 'Jobs'],
+},
+  {
     name: 'Abhijit Sarode',
     description: 'At the intersection of Fullstack, Competitive Programming & Mathematics',
     url: 'https://abhijitsarode.hashnode.dev',
